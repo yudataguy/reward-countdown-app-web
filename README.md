@@ -28,7 +28,7 @@ Then visit `http://localhost:8000` in your browser.
 
 ## Deployment
 
-The site automatically deploys to GitHub Pages via GitHub Actions when changes are pushed to the `main` branch.
+The site automatically deploys to GitHub Pages via GitHub Actions when changes are pushed to the `master` branch.
 
 ## Contact
 
